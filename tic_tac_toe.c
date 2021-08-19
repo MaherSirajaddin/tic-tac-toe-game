@@ -39,7 +39,7 @@ int main(){
 			score[1]++;
 
 		//get the user decision
-		int decision='0';
+		int decision;
 		printf("Press(1)for new game,(2) to reset score and any key else to end the game: ");
 		scanf("%d",&decision);
 
